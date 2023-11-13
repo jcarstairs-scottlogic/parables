@@ -1,5 +1,7 @@
 # Parable Name and Bible Reference Goes Here!
 
+Copy and paste the passage in here.
+
 ## Questions
 
 ### Historical-cultural context
