@@ -1,5 +1,7 @@
 # Parable Name and Bible Reference Goes Here!
 
+Copy and paste the passage in here.
+
 ## Questions
 
 ### Historical-cultural context
@@ -32,6 +34,6 @@
 
 * How can we be like, or unlike, each of the characters in the parable?
 * How can we be like, or unlike, Jesus' audience?
-* How can we be like, or unlike, Luke's audience (the early church)?
+* How can we be like, or unlike, the gospel author's audience (the early church)?
 * How might we change the way we live in response to the truth contained in
   this parable?
