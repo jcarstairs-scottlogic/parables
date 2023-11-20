@@ -11,3 +11,4 @@ read.
 ### Luke
 
 * [The Parable of the Good Samaritan, 10:25-37](./worksheets/luke_10_25-37.md)
+* [The Parable of the Two Debtors, 7:36-50](./worksheets/luke_7_36-50.md)

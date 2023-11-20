@@ -1,6 +1,6 @@
 # Parables unique to Luke
 
-- [ ] The Parable of the Two Debtors (7)
+- [x] The Parable of the Two Debtors (7)
 - [x] The Parable of the Good Samaritan (10)
 - [ ] The Parable of the Friend at Night (11)
 - [ ] The Parable of the Rich Fool (12)
