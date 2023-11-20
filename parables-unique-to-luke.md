@@ -1,0 +1,14 @@
+# Parables unique to Luke
+
+- [ ] The Parable of the Two Debtors (7)
+- [x] The Parable of the Good Samaritan (10)
+- [ ] The Parable of the Friend at Night (11)
+- [ ] The Parable of the Rich Fool (12)
+- [ ] The Parable of the Barren Fig-Tree (13)
+- [ ] Counting the Cost (14)
+- [ ] The Parable of the Lost Coin / Lost Sheep / Prodigal Son (15)
+- [ ] The Parable of the Shrewd Manager (16)
+- [ ] The Parable of the Rich Man and Lazarus (16)
+- [ ] The Parable of the Master and Servant (17)
+- [ ] The Parable of the Importunate Widow (18)
+- [ ] The Parable of the Pharisee and the Tax-Collector (18)
