@@ -10,4 +10,4 @@ read.
 
 ### Luke
 
-* [The Good Samaritan, 10:25-37](./worksheets/luke_10_25-37.md)
+* [The Parable of the Good Samaritan, 10:25-37](./worksheets/luke_10_25-37.md)
