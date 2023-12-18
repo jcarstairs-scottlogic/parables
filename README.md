@@ -13,3 +13,4 @@ read.
 * [The Parable of the Good Samaritan, 10:25-37](./worksheets/luke_10_25-37.md)
 * [The Parable of the Two Debtors, 7:36-50](./worksheets/luke_7_36-50.md)
 * [The Parable of the Friend at Night, 11:1-13](./worksheets/luke_11_1-13.md)
+* The Parable of the Barren Fig-Tree
