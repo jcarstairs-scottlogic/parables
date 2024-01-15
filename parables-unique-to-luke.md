@@ -7,7 +7,7 @@
 - [X] The Parable of the Barren Fig-Tree (13)
 - [X] Counting the Cost (14)
 - [X] The Parable of the Lost Coin / Lost Sheep / Prodigal Son (15)
-- [ ] The Parable of the Shrewd Manager (16)
+- [X] The Parable of the Shrewd Manager (16)
 - [ ] The Parable of the Rich Man and Lazarus (16)
 - [ ] The Parable of the Master and Servant (17)
 - [ ] The Parable of the Importunate Widow (18)

@@ -16,4 +16,5 @@ read.
 * The Parable of the Barren Fig-Tree
 * [The Parable of Counting the Cost, 14:25-35](./worksheets/luke_14_25-35)
 * [The Parable of the Lost Coin / Lost Sheep / Prodigal Son, 15:1-32](./worksheets/luke_15_1-32.md)
+* [The Parable of the Shrewd Manager, Luke 16:1-15](./worksheets/luke_16_1-15.md)
 
