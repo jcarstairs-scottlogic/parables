@@ -15,4 +15,5 @@ read.
 * [The Parable of the Friend at Night, 11:1-13](./worksheets/luke_11_1-13.md)
 * The Parable of the Barren Fig-Tree
 * [The Parable of Counting the Cost, 14:25-35](./worksheets/luke_14_25-35)
+* [The Parable of the Lost Coin / Lost Sheep / Prodigal Son, 15:1-32](./worksheets/luke_15_1-32.md)
 
