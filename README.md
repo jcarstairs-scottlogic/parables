@@ -18,4 +18,4 @@ read.
 * [The Parable of the Lost Coin / Lost Sheep / Prodigal Son, 15:1-32](./worksheets/luke_15_1-32.md)
 * [The Parable of the Shrewd Manager, Luke 16:1-15](./worksheets/luke_16_1-15.md)
 * [The Parable of the Rich Man and Lazarus, Luke 16:19-31](./worksheets/luke_16_19-31.md)
-
+* [The Parable of the Importunate Widow, Luke 18:1-8](./worksheets/luke_18_1-8.md)
